@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2497f094-ee52-7b46-2e2e-7e3511a2dc4e
 resourcetype: Document
 title: Outline Nyquist
 uid: 2b43eb4a-8cf6-ac7f-3917-6edda044076d

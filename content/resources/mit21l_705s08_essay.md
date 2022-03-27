@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9dae0a69-070c-2abd-6d1f-e0aeea4b3af9
 resourcetype: Document
 title: Guidelines for the Short Essay
 uid: 09540f2a-51b4-2968-630c-ce1121e81d55

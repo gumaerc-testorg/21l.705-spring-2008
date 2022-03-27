@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7cde87f-008c-9647-9a0a-9c7cfdce0bee
 resourcetype: Document
 title: Genesis 32
 uid: bf4ca98a-5530-4cd4-0d37-6f953dae137e

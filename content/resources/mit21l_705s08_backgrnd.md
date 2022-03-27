@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7cde87f-008c-9647-9a0a-9c7cfdce0bee
 resourcetype: Document
 title: Essential Backgrounds for Reading Milton
 uid: 6544a8e2-49a2-49cb-97c8-e9d0544575c2

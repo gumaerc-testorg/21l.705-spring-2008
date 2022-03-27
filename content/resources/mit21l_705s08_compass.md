@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7cde87f-008c-9647-9a0a-9c7cfdce0bee
 resourcetype: Document
 title: 'The Golden Compass: Sources for Pullman''s Title'
 uid: c7db121c-35ae-6702-5c6b-1b57afaecb04

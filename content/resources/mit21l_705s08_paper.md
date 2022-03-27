@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9dae0a69-070c-2abd-6d1f-e0aeea4b3af9
 resourcetype: Document
 title: How to Format your Paper
 uid: 74bfae59-8961-6c48-44b1-aa218fc77a52

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2497f094-ee52-7b46-2e2e-7e3511a2dc4e
 resourcetype: Document
 title: Ramus
 uid: fa002c86-a80b-d4ed-ddcd-316103c10201
