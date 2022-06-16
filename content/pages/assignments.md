@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the writing assignments for the
+  course, including journals and papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,9 +21,9 @@ Let me know your thoughts and questions about (any of) the reading for the week.
 Papers
 ------
 
-Formatting your Papers ([PDF]({{< baseurl >}}/resources/mit21l_705s08_paper))
+Formatting your Papers ({{% resource_link 74bfae59-8961-6c48-44b1-aa218fc77a52 "PDF" %}})
 
-Short Essay ([PDF]({{< baseurl >}}/resources/mit21l_705s08_essay))
+Short Essay ({{% resource_link 09540f2a-51b4-2968-630c-ce1121e81d55 "PDF" %}})
 
 ### Proposal
 
@@ -33,4 +35,4 @@ A draft of your seminar paper (7+ pages) is due on Lec #23, and counts for 10% o
 
 ### Seminar Paper
 
-The longer essay, due at the end of term and counting for half your final grade, can be on any of the texts we have read, and will be built in several stages, as listed under "Summary of the Work" in the [syllabus]({{< baseurl >}}/pages/syllabus) ; completion of each of these will comprise some part of the final grade. Part of the exercise will be to read and use secondary sources, including preparation of a critical bibliography, and we will discuss how to do this earlier in the semester. (Improper use of sources, of course, may constitute plagiarism). Work on the seminar papers will include multiple opportunities to get feedback and ideas from both your colleagues and from me before submitting the final version for a grade. Most importantly, we will spend the penultimate week of the semester discussing your work, and I will also provide comments on the individual drafts.
+The longer essay, due at the end of term and counting for half your final grade, can be on any of the texts we have read, and will be built in several stages, as listed under "Summary of the Work" in the {{% resource_link e6b25a73-a588-34c7-ba0d-d83c9dacb666 "syllabus" %}} ; completion of each of these will comprise some part of the final grade. Part of the exercise will be to read and use secondary sources, including preparation of a critical bibliography, and we will discuss how to do this earlier in the semester. (Improper use of sources, of course, may constitute plagiarism). Work on the seminar papers will include multiple opportunities to get feedback and ideas from both your colleagues and from me before submitting the final version for a grade. Most importantly, we will spend the penultimate week of the semester discussing your work, and I will also provide comments on the individual drafts.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-705-major-authors-john-milton-spring-2008/bf4ca98a55304cd40d376f953dae137e_MIT21L_705S08_genesis32.pdf
+file: /courses/21l-705-major-authors-john-milton-spring-2008/bf4ca98a55304cd40d376f953dae137e_MIT21L_705S08_genesis32.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

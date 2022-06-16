@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-705-major-authors-john-milton-spring-2008/6544a8e249a249cb97c8e9d0544575c2_MIT21L_705S08_backgrnd.pdf
+file: /courses/21l-705-major-authors-john-milton-spring-2008/6544a8e249a249cb97c8e9d0544575c2_MIT21L_705S08_backgrnd.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides reading materials for the course, including links
+  to online resources, and information on the schedule of readings and presentations
+  in Milton criticism.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -15,9 +18,9 @@ Pullman, Philip. _The Golden Compass_. New York, NY: Alfred Knopf, 1996. ISBN: 9
 
 [_Paradise Lost_](http://www.dartmouth.edu/~milton/reading_room/pl/book_1/index.shtml)
 
-Genesis 1-5 ([PDF]({{< baseurl >}}/resources/mit21l_705s08_genesis))
+Genesis 1-5 ({{% resource_link 6ebb1159-28e4-478d-8d68-1c90453ffdf8 "PDF" %}})
 
-Areopagitica — two key passages from Milton's defense of a free press, which bear on issues in "PL" (including God's conferral of free will, and thus the capacity to fall, on human beings). ([PDF]({{< baseurl >}}/resources/mit21l_705s08_aropgtica))
+Areopagitica — two key passages from Milton's defense of a free press, which bear on issues in "PL" (including God's conferral of free will, and thus the capacity to fall, on human beings). ({{% resource_link 1b462da7-2301-ab79-6384-64013571c4dc "PDF" %}})
 
 [Early English Books Online](http://eebo.chadwyck.com/home) — use this site to view the original editions of _Paradise Lost_ during Milton's lifetime.
 
@@ -29,7 +32,7 @@ Areopagitica — two key passages from Milton's defense of a free press, which b
 
 [NetBible](http://www.bible.org/netbible/index.htm) — searchable text translated by scholars "from the best currently available Hebrew, Aramaic, and Greek texts," with commentary by translators. Use especially with Nyquist reading on Genesis.
 
-Selected Bibliography — this selection from the Dartmouth Web site includes articles and books whose interests may align with yours, including (for instance) gender, science, politics/class. ([PDF]({{< baseurl >}}/resources/mit21l_705s08_bibliogr))
+Selected Bibliography — this selection from the Dartmouth Web site includes articles and books whose interests may align with yours, including (for instance) gender, science, politics/class. ({{% resource_link 090325aa-bd5b-24bb-31fc-c4684e8e544d "PDF" %}})
 
 Grossman, Marshall. "Milton's Dialectical Visions." _Modern Philology_ 82 (1984): 23-39
 
@@ -51,11 +54,11 @@ Lewis, C. S. _Preface to Paradise Lost._ New York, NY: Oxford University Press, 
 
 Nyquist, Mary. "Gynesis, Genesis, Exegesis, and the Formation of Milton's Eve." In _Cannibals, Witches, and Divorce._ Edited by Marjorie Garber. Baltimore, MD: The Johns Hopkins University Press, 2003. ISBN: 9780801877384.
 
-Outline of Nyquist reading. ([PDF]({{< baseurl >}}/resources/mit21l_705s08_nyquist))
+Outline of Nyquist reading. ({{% resource_link 2b43eb4a-8cf6-ac7f-3917-6edda044076d "PDF" %}})
 
 Fish, Stanley. "The Milk of the Pure Word." In _Surprised by Sin: The Reader in Paradise Lost._ 2nd ed. Cambridge, MA: Harvard University Press, 2003. ISBN: 9780674857476.
 
-Translations of Ramus, for Stanley Fish reading. ([PDF]({{< baseurl >}}/resources/mit21l_705s08_ramus))
+Translations of Ramus, for Stanley Fish reading. ({{% resource_link fa002c86-a80b-d4ed-ddcd-316103c10201 "PDF" %}})
 
 Lewalski, Barbara Kiefer. "'Paradise Lost' and Milton's Politics." _Milton Studies_ 38 (2000): 141-168.
 
