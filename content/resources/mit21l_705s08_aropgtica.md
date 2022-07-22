@@ -5,6 +5,7 @@ file: /courses/21l-705-major-authors-john-milton-spring-2008/1b462da72301ab79638
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Areopagitica
 uid: 1b462da7-2301-ab79-6384-64013571c4dc
 ---
 This is a resource file that contains information regarding areopagitica.
-

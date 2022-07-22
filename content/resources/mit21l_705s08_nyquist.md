@@ -5,6 +5,7 @@ file: /courses/21l-705-major-authors-john-milton-spring-2008/2b43eb4a8cf6ac7f391
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Outline Nyquist
 uid: 2b43eb4a-8cf6-ac7f-3917-6edda044076d
 ---
 This is a resource file that contains information regarding outline nyquist.
-

@@ -5,6 +5,7 @@ file: /courses/21l-705-major-authors-john-milton-spring-2008/090325aabd5b24bb31f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Selected Bibliography
 uid: 090325aa-bd5b-24bb-31fc-c4684e8e544d
 ---
 This is a resource file that contains information regarding bibliography.
-

@@ -5,6 +5,7 @@ file: /courses/21l-705-major-authors-john-milton-spring-2008/09540f2a51b42968630
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Guidelines for the Short Essay
 uid: 09540f2a-51b4-2968-630c-ce1121e81d55
 ---
 This is a resource file that contains information regarding essay.
-
