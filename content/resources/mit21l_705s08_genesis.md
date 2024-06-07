@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding genesis.
 file: /courses/21l-705-major-authors-john-milton-spring-2008/6ebb115928e4478d8d681c90453ffdf8_MIT21L_705S08_genesis.pdf
+file_size: 711404
 file_type: application/pdf
 learning_resource_types:
 - Readings
