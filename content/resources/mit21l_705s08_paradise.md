@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-705-major-authors-john-milton-spring-2008/3fb585eaf8e86a9b82b9176137efe0dc_MIT21L_705S08_paradise.pdf
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/3fb585eaf8e86a9b82b9176137efe0dc_MIT21L_705S08_paradise.pdf
 file_size: 170495
 file_type: application/pdf
 learning_resource_types: []
