@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/c7db121c35ae67025c6b1b57afaecb04_MIT21L_705S08_compass.pdf
+file: /courses/21l-705-major-authors-john-milton-spring-2008/c7db121c35ae67025c6b1b57afaecb04_MIT21L_705S08_compass.pdf
 file_size: 161677
 file_type: application/pdf
 learning_resource_types: []
