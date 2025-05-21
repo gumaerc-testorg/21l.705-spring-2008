@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/759bb223a17e143fcff8ddf115787b1d_MIT21L_705S08_dryden.pdf
+file: /courses/21l-705-major-authors-john-milton-spring-2008/759bb223a17e143fcff8ddf115787b1d_MIT21L_705S08_dryden.pdf
 file_size: 684935
 file_type: application/pdf
 learning_resource_types: []

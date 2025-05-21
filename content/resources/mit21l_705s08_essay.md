@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding essay.
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/09540f2a51b42968630cce1121e81d55_MIT21L_705S08_essay.pdf
+file: /courses/21l-705-major-authors-john-milton-spring-2008/09540f2a51b42968630cce1121e81d55_MIT21L_705S08_essay.pdf
 file_size: 209752
 file_type: application/pdf
 learning_resource_types:
