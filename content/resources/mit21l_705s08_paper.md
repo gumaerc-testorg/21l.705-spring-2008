@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding how to format
   your paper.
-file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/74bfae5989616c4844b1aa218fc77a52_MIT21L_705S08_paper.pdf
+file: /courses/21l-705-major-authors-john-milton-spring-2008/74bfae5989616c4844b1aa218fc77a52_MIT21L_705S08_paper.pdf
 file_size: 596282
 file_type: application/pdf
 learning_resource_types:
