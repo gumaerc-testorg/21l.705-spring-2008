@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding bibliography.
-file: /courses/21l-705-major-authors-john-milton-spring-2008/090325aabd5b24bb31fcc4684e8e544d_MIT21L_705S08_bibliogr.pdf
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/090325aabd5b24bb31fcc4684e8e544d_MIT21L_705S08_bibliogr.pdf
 file_size: 648924
 file_type: application/pdf
 learning_resource_types:
