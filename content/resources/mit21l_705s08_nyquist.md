@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding outline nyquist.
-file: /courses/21l-705-major-authors-john-milton-spring-2008/2b43eb4a8cf6ac7f39176edda044076d_MIT21L_705S08_nyquist.pdf
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/2b43eb4a8cf6ac7f39176edda044076d_MIT21L_705S08_nyquist.pdf
 file_size: 667723
 file_type: application/pdf
 learning_resource_types:

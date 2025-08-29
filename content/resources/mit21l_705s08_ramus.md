@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding ramus.
-file: /courses/21l-705-major-authors-john-milton-spring-2008/fa002c86a80bd4edddcd316103c10201_MIT21L_705S08_ramus.pdf
+file: /ol-ocw-studio-app/courses/21l-705-major-authors-john-milton-spring-2008/fa002c86a80bd4edddcd316103c10201_MIT21L_705S08_ramus.pdf
 file_size: 204776
 file_type: application/pdf
 learning_resource_types:
