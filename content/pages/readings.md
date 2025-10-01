@@ -16,21 +16,21 @@ Pullman, Philip. *The Golden Compass*. New York, NY: Alfred Knopf, 1996. ISBN: 9
 
 ———. *The Amber Spyglass*. New York, NY: Alfred Knopf, 1999. ISBN: 9780679879268.
 
-[*Paradise Lost*](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
+{{% resource_link "538db5dc-dcd0-4515-991b-ff78197bf22e" "*Paradise Lost*" %}}
 
 Genesis 1-5 ({{% resource_link "6ebb1159-28e4-478d-8d68-1c90453ffdf8" "PDF" %}})
 
 Areopagitica — two key passages from Milton's defense of a free press, which bear on issues in "PL" (including God's conferral of free will, and thus the capacity to fall, on human beings). ({{% resource_link "1b462da7-2301-ab79-6384-64013571c4dc" "PDF" %}})
 
-[Early English Books Online](http://eebo.chadwyck.com/home) — use this site to view the original editions of *Paradise Lost* during Milton's lifetime.
+{{% resource_link "2e386ae5-3698-4549-a0ab-bef0503364de" "Early English Books Online" %}} — use this site to view the original editions of *Paradise Lost* during Milton's lifetime.
 
-[Oxford English Dictionary](http://dictionary.oed.com/entrance.dtl) — use this dictionary to find the full range of a word's possible meanings as well as its etymology.
+{{% resource_link "93833b86-b0eb-4caa-9a66-9e7741f96cd8" "Oxford English Dictionary" %}} — use this dictionary to find the full range of a word's possible meanings as well as its etymology.
 
-[The Bible](http://www.biblegateway.com/)
+{{% resource_link "97dde9da-4c39-48b8-933b-3220492cc4bb" "The Bible" %}}
 
-[Milton Reading Room](https://milton.host.dartmouth.edu/reading_room/contents/text.shtml)
+{{% resource_link "d2442b23-f10c-4dcf-b453-5aa7d6ddf607" "Milton Reading Room" %}}
 
-[NetBible](http://www.bible.org/netbible/index.htm) — searchable text translated by scholars "from the best currently available Hebrew, Aramaic, and Greek texts," with commentary by translators. Use especially with Nyquist reading on Genesis.
+{{% resource_link "d211b94a-b654-4e5c-a7b2-e8efbf05732d" "NetBible" %}} — searchable text translated by scholars "from the best currently available Hebrew, Aramaic, and Greek texts," with commentary by translators. Use especially with Nyquist reading on Genesis.
 
 Selected Bibliography — this selection from the Dartmouth Web site includes articles and books whose interests may align with yours, including (for instance) gender, science, politics/class. ({{% resource_link "090325aa-bd5b-24bb-31fc-c4684e8e544d" "PDF" %}})
 
@@ -38,9 +38,9 @@ Grossman, Marshall. "Milton's Dialectical Visions." *Modern Philology* 82 (1984)
 
 Gross, Kenneth. "Satan and the Romantic Satan: A Notebook." In *Re-Membering Milton: Essays on the Texts and Traditions.* Edited by Mary Nyquist and Margaret W. Ferguson. New York, NY: Methuen, 1988, pp. 318-341. ISBN: 9780416397406.
 
-Descartes, [First Meditation](http://www.sparknotes.com/philosophy/meditations/section2.rhtml) — See para 12, for the famous hypothesis of the evil demon (referenced in Gross, p. 319).
+Descartes, {{% resource_link "11c3c719-27b2-42f2-ad36-47e1acdc830e" "First Meditation" %}} — See para 12, for the famous hypothesis of the evil demon (referenced in Gross, p. 319).
 
-[Blake](http://www.blakearchive.org/blake/main.html), "Marriage of Heaven and Hell."
+{{% resource_link "72932fac-c4be-4cc5-95c4-491237919c62" "Blake" %}}, "Marriage of Heaven and Hell."
 
 Flesch, William. "The Majesty of Darkness." In *John Milton's Paradise Lost (Modern Critical Interpretations).* Edited by Harold Bloom. Philadelphia, PA: Chelsea House Publications, 1987. ISBN: 9780877544210.
 
