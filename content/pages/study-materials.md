@@ -13,15 +13,15 @@ Essential Background for Reading Milton ({{% resource_link "6544a8e2-49a2-49cb-9
 
 Allusions in *Amber Spyglass* — Sources for Mrs. Coulter's "Thief in the Night" and "Mustard Seed"; Donne's sonnet on the death of Death. ({{% resource_link "5bdb0f4d-7182-9b4b-88e7-b90fa4a9f262" "PDF" %}})
 
-William Blake's [Illustrations to *Paradise Lost*](http://www.blakearchive.org/exist/blake/archive/work.xq?workid=but529&java=yes) — One of Milton's great readers, the Romantic poet and illustrator William Blake is also among the most famous proponents of Milton's Satan.
+William Blake's {{% resource_link "0b7c25ac-44de-4807-90fe-a0ea0e5c96eb" "Illustrations to *Paradise Lost*" %}} — One of Milton's great readers, the Romantic poet and illustrator William Blake is also among the most famous proponents of Milton's Satan.
 
 John Dryden, "State of Innocence " — *Paradise Lost* in rhymed verse, by Milton's younger contemporary. (Act 1, Scene 1.)
 
-[Early English Books Online](http://eebo.chadwyck.com/home) — Use this site to view the original editions of *Paradise Lost* during Milton's lifetime.
+{{% resource_link "2e386ae5-3698-4549-a0ab-bef0503364de" "Early English Books Online" %}} — Use this site to view the original editions of *Paradise Lost* during Milton's lifetime.
 
 Genesis 32 — Jacob wrestles with the angel. ({{% resource_link "bf4ca98a-5530-4cd4-0d37-6f953dae137e" "PDF" %}})
 
-[Keats on "Negative Capability"](https://www.poetryfoundation.org/learn/glossary-terms/negative-capability) — A fuller transcription of the letter in which JK coined this famous phrase.
+{{% resource_link "04707dc2-d08e-401b-ac79-b73e357c6e15" "Keats on \"Negative Capability\"" %}} — A fuller transcription of the letter in which JK coined this famous phrase.
 
 Sources for *The Golden Compass* ({{% resource_link "c7db121c-35ae-6702-5c6b-1b57afaecb04" "PDF" %}})
 

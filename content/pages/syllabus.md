@@ -117,7 +117,7 @@ Participation
 Plagiarism
 ----------
 
-Use of another's intellectual work without acknowledgement is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the Writing and Communication Center, and the [MIT Web site](http://web.mit.edu/writing/index.html) on Plagiarism.
+Use of another's intellectual work without acknowledgement is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the Writing and Communication Center, and the {{% resource_link "b5a4a049-84f6-4858-8d92-14b74851595c" "MIT Web site" %}} on Plagiarism.
 
 {{< tableopen >}}
 {{< theadopen >}}
